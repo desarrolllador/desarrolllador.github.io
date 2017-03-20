@@ -411,6 +411,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#social-buttons4-2 .mbr-section-title,
+#social-buttons4-2 .btn-social {
+  color: #fff;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
