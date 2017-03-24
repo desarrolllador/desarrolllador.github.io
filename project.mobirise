@@ -27,14 +27,16 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "desarrollamos paginas web",
-        "meta_descr": "Webs a Su Medida. Pida Presupuesto Hoy y Ahorre Hasta Un 40% Ahorre Tiempo Y Dinero ·Web listas para usar · Actualización continua · Webs Personalizables · Diseño Responsivo",
+        "meta_descr": "Trabajando a Su Medida. Pida Presupuesto Hoy y Ahorre Hasta Un 40% Ahorre Tiempo Y Dinero ·Web listas para usar · Actualización continua · Webs Personalizables · Diseño Responsivo",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -128,7 +130,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-192x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://aragontrujillo.github.io/",
@@ -149,13 +151,18 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "UL": {
+              "color": "#90a878"
+            }
+          },
           "_anchor": "contacts2-2",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1299.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -168,7 +175,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>11011 Nelson Madela<br>Cadiz España<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34 665 45 86 35<br><br>",
+          "text1": "<strong>Address</strong><br>11011 Nelson Madela<br>Cadiz España<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34665458635<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\"><b>Webs</b></a><a href=\"index.html\"><b></b></a></li><li><b><a href=\"index.html\">Webs Negocios</a></b></li><li><b><a href=\"index.html\">Targetas &nbsp;Digital</a></b></li></ul>"
         }
       ]
