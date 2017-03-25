@@ -27,9 +27,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -130,7 +128,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-192x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-191x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://aragontrujillo.github.io/",
@@ -151,20 +149,15 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "color": "#90a878"
-            }
-          },
           "_anchor": "contacts2-2",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1299.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
@@ -175,8 +168,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>11011 Nelson Madela<br>Cadiz España<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34665458635<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\"><b>Webs</b></a><a href=\"index.html\"><b></b></a></li><li><b><a href=\"index.html\">Webs Negocios</a></b></li><li><b><a href=\"index.html\">Targetas &nbsp;Digital</a></b></li></ul>"
+          "text1": "<strong>Address</strong><br>11011 Nelson Madela<br>Cadiz España<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@desarrollo.com<br>\nPhone: +34 665 45 86 35<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\"><b>Webs</b></a><a href=\"index.html\"><b></b></a></li><li><b>Webs Negocios</b></li><li><b>Targetas &nbsp;Digital</b></li></ul>"
         }
       ]
     }
